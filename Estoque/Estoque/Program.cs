@@ -18,7 +18,28 @@ namespace Estoque
             Console.Write("Quantidade no estoque: ");
             p.Quantidade = int.Parse(Console.ReadLine());
 
+            Console.WriteLine();
+
             Console.WriteLine("Dados do produto: " + p);
+
+            Console.WriteLine();
+
+            Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
+
+            int qte = int.Parse(Console.ReadLine());
+            p.AdicionarProdutos(qte);
+
+            Console.WriteLine();
+            Console.WriteLine("Dados atualizados: " + p);
+
+            Console.WriteLine();
+            Console.WriteLine("Digite o número de produtos a ser reovido do estoque: ");
+
+            int remover = int.Parse(Console.ReadLine());
+            p.RemoverProduto(remover);
+
+            Console.WriteLine();
+            Console.WriteLine("Dados atualizados: " + p);
 
         }
     }
