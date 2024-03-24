@@ -1,0 +1,14 @@
+C:\Users\Bia\OneDrive\Documentos\OrientaçãoObjetos\FormulaTriangulo\FormulaTriangulo\bin\Debug\net7.0\FormulaTriangulo.exe
+C:\Users\Bia\OneDrive\Documentos\OrientaçãoObjetos\FormulaTriangulo\FormulaTriangulo\bin\Debug\net7.0\FormulaTriangulo.deps.json
+C:\Users\Bia\OneDrive\Documentos\OrientaçãoObjetos\FormulaTriangulo\FormulaTriangulo\bin\Debug\net7.0\FormulaTriangulo.runtimeconfig.json
+C:\Users\Bia\OneDrive\Documentos\OrientaçãoObjetos\FormulaTriangulo\FormulaTriangulo\bin\Debug\net7.0\FormulaTriangulo.dll
+C:\Users\Bia\OneDrive\Documentos\OrientaçãoObjetos\FormulaTriangulo\FormulaTriangulo\bin\Debug\net7.0\FormulaTriangulo.pdb
+C:\Users\Bia\OneDrive\Documentos\OrientaçãoObjetos\FormulaTriangulo\FormulaTriangulo\obj\Debug\net7.0\FormulaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bia\OneDrive\Documentos\OrientaçãoObjetos\FormulaTriangulo\FormulaTriangulo\obj\Debug\net7.0\FormulaTriangulo.AssemblyInfoInputs.cache
+C:\Users\Bia\OneDrive\Documentos\OrientaçãoObjetos\FormulaTriangulo\FormulaTriangulo\obj\Debug\net7.0\FormulaTriangulo.AssemblyInfo.cs
+C:\Users\Bia\OneDrive\Documentos\OrientaçãoObjetos\FormulaTriangulo\FormulaTriangulo\obj\Debug\net7.0\FormulaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Bia\OneDrive\Documentos\OrientaçãoObjetos\FormulaTriangulo\FormulaTriangulo\obj\Debug\net7.0\FormulaTriangulo.dll
+C:\Users\Bia\OneDrive\Documentos\OrientaçãoObjetos\FormulaTriangulo\FormulaTriangulo\obj\Debug\net7.0\refint\FormulaTriangulo.dll
+C:\Users\Bia\OneDrive\Documentos\OrientaçãoObjetos\FormulaTriangulo\FormulaTriangulo\obj\Debug\net7.0\FormulaTriangulo.pdb
+C:\Users\Bia\OneDrive\Documentos\OrientaçãoObjetos\FormulaTriangulo\FormulaTriangulo\obj\Debug\net7.0\FormulaTriangulo.genruntimeconfig.cache
+C:\Users\Bia\OneDrive\Documentos\OrientaçãoObjetos\FormulaTriangulo\FormulaTriangulo\obj\Debug\net7.0\ref\FormulaTriangulo.dll
