@@ -33,13 +33,14 @@ namespace Estoque
             Console.WriteLine("Dados atualizados: " + p);
 
             Console.WriteLine();
-            Console.WriteLine("Digite o número de produtos a ser reovido do estoque: ");
+            Console.WriteLine("Digite o número de produtos a ser removido do estoque: ");
 
             int remover = int.Parse(Console.ReadLine());
             p.RemoverProduto(remover);
 
             Console.WriteLine();
             Console.WriteLine("Dados atualizados: " + p);
+
 
         }
     }
